@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ionic-cv-26867": {
+      "hosting": {
+        "app": [
+          "ionic-cv-26867"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionic-cv-26867"
+  }
+}

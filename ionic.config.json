@@ -1,0 +1,7 @@
+{
+  "name": "ionic-cv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
